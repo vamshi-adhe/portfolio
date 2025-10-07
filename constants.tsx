@@ -137,4 +137,4 @@ export const EDUCATION_DATA: EducationItem[] = [
     }
 ]
 
-export const HERO_IMAGE_URL = "shc.png";
+export const HERO_IMAGE_URL = "/shc.png";
